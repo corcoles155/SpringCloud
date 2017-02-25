@@ -1,7 +1,7 @@
-package org.sanchez.corcoles.ana.pruebasconcepto.springboot.controller;
+package org.sanchez.corcoles.ana.pruebasconcepto.springcloud.controller;
 
-import org.sanchez.corcoles.ana.pruebasconcepto.springboot.service.UserService;
-import org.sanchez.corcoles.ana.pruebasconcepto.springboot.service.dto.UserDTO;
+import org.sanchez.corcoles.ana.pruebasconcepto.springcloud.service.UserService;
+import org.sanchez.corcoles.ana.pruebasconcepto.springcloud.service.dto.UserDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

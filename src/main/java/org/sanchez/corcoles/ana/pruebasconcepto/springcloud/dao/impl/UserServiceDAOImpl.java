@@ -1,8 +1,8 @@
-package org.sanchez.corcoles.ana.pruebasconcepto.springboot.dao.impl;
+package org.sanchez.corcoles.ana.pruebasconcepto.springcloud.dao.impl;
 
 
-import org.sanchez.corcoles.ana.pruebasconcepto.springboot.dao.UserServiceDAO;
-import org.sanchez.corcoles.ana.pruebasconcepto.springboot.service.dto.UserDTO;
+import org.sanchez.corcoles.ana.pruebasconcepto.springcloud.dao.UserServiceDAO;
+import org.sanchez.corcoles.ana.pruebasconcepto.springcloud.service.dto.UserDTO;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package org.sanchez.corcoles.ana.pruebasconcepto.springboot.service.dto;
+package org.sanchez.corcoles.ana.pruebasconcepto.springcloud.service.dto;
 
 
 public class UserDTO {
@@ -6,6 +6,10 @@ public class UserDTO {
     private Integer id;
 
     private String name;
+
+    public UserDTO(){
+        super();
+    }
 
     public UserDTO(Integer id, String name) {
         this.id = id;

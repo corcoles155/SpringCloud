@@ -1,13 +1,11 @@
-package org.sanchez.corcoles.ana.pruebasconcepto.springboot.service.impl;
+package org.sanchez.corcoles.ana.pruebasconcepto.springcloud.service.impl;
 
 
-import org.sanchez.corcoles.ana.pruebasconcepto.springboot.dao.UserServiceDAO;
-import org.sanchez.corcoles.ana.pruebasconcepto.springboot.service.UserService;
-import org.sanchez.corcoles.ana.pruebasconcepto.springboot.service.dto.UserDTO;
+import org.sanchez.corcoles.ana.pruebasconcepto.springcloud.dao.UserServiceDAO;
+import org.sanchez.corcoles.ana.pruebasconcepto.springcloud.service.UserService;
+import org.sanchez.corcoles.ana.pruebasconcepto.springcloud.service.dto.UserDTO;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 
-import java.util.Arrays;
 import java.util.List;
 
 //@Service
